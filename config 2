@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 3,
+  "configVersion": 4,
+  "profile": "aggressive",
+  "adsEnabled": true,
+  "useTestAds": true,
+  "bannerEnabled": true,
+  "nativeEnabled": true,
+  "rewardedEnabled": true,
+  "interstitialEnabled": false,
+  "appOpenEnabled": false,
+  "rewardedGoldAmount": 100,
+  "maintenanceEnabled": false,
+  "maintenanceTitle": "Техническое обслуживание",
+  "maintenanceMessage": "Приложение временно находится на техническом обслуживании. Установите приложение по кнопке ниже.",
+  "maintenanceButtonText": "Установить",
+  "maintenanceInstallUrl": "",
+  "disabledPlacements": []
+}
