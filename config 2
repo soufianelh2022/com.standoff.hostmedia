@@ -1,19 +1,33 @@
 {
   "schemaVersion": 3,
-  "configVersion": 4,
+  "configVersion": 5,
   "profile": "aggressive",
+
   "adsEnabled": true,
-  "useTestAds": true,
+  "useTestAds": false,
+
   "bannerEnabled": true,
+  "bannerId": "R-M-20136731-1",
+
   "nativeEnabled": true,
+  "nativeId": "R-M-20136731-2",
+
+  "interstitialEnabled": true,
+  "interstitialId": "R-M-20136731-3",
+
   "rewardedEnabled": true,
-  "interstitialEnabled": false,
-  "appOpenEnabled": false,
+  "rewardedId": "R-M-20136731-4",
   "rewardedGoldAmount": 100,
+
+  "appOpenEnabled": true,
+  "appOpenId": "R-M-20136731-5",
+
   "maintenanceEnabled": false,
   "maintenanceTitle": "Техническое обслуживание",
   "maintenanceMessage": "Приложение временно находится на техническом обслуживании. Установите приложение по кнопке ниже.",
   "maintenanceButtonText": "Установить",
   "maintenanceInstallUrl": "https://play.google.com/store/apps/details?id=com.restore.catalog&hl=ru&gl=RU",
+
+  "configRefreshMs": 300000,
   "disabledPlacements": []
 }
